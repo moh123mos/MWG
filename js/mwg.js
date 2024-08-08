@@ -129,7 +129,7 @@ for (let i = 1; i <= 66; i++) {
   item.className = "container-project col-sm-12 col-lg-3";
   item.innerHTML += `
       <div class="project" style="background-image: url(./imgs/portofolio_imgs/i_${i}.jpeg)">
-        <a href="./pages/portofolio/portf_${i}.html" class="content">
+        <a href="#" class="content">
           <div class="gradient"></div>
           <h4>Naguib Selim</h4>
           <p>For Naguib Selim, we created a 360 campaign</p>
